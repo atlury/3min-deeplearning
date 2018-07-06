@@ -50,6 +50,11 @@ Chap01 ~ 02 는 개요 및 설치이므로 생략
 
 - Chap09 - [Generative Adversarial Networks(GAN)](https://github.com/ExcelsiorCJH/3min-deeplearning/blob/master/Chap09-GAN/01-GAN.ipynb)
 
+- Chap10 - Recurrent Neural Networks(RNN)
+	1) [MNIST-RNN](https://github.com/ExcelsiorCJH/3min-deeplearning/blob/master/Chap10-RNN/01-mnist_RNN.ipynb)
+	2) [Autocomplete](https://github.com/ExcelsiorCJH/3min-deeplearning/blob/master/Chap10-RNN/02-Autocomplete.ipynb)
+	3) [Seq2Seq](https://github.com/ExcelsiorCJH/3min-deeplearning/blob/master/Chap10-RNN/03-Seq2Seq.ipynb)
+
 
 ## 3. 참고자료 
 
