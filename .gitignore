@@ -176,4 +176,7 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 .history
 
+# data
+data/
+
 # End of https://www.gitignore.io/api/macos,django,python,windows,jupyternotebook
